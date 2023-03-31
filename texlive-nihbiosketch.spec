@@ -1,6 +1,6 @@
 Name:		texlive-nihbiosketch
 Version:	54191
-Release:	1
+Release:	2
 Summary:	A class for NIH biosketches based on the 2015 updated format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nihbiosketch
