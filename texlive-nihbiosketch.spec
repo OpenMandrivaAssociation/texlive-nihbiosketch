@@ -3,7 +3,7 @@ Version:	54191
 Release:	2
 Summary:	A class for NIH biosketches based on the 2015 updated format
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nihbiosketch
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nihbiosketch
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nihbiosketch.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nihbiosketch.doc.r%{version}.tar.xz
